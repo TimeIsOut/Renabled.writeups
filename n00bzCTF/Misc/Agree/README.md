@@ -1,4 +1,4 @@
-# Agree(326 points)
+# Agree (326 points)
 ## Writeup Author - h1tok1r11
 
 ---
