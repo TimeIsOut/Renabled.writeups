@@ -16,11 +16,11 @@ Attached files:
 
 The first thing that comes to mind is to use a photo search. I tried to use Google's "Search by image" but I didn't find anything interesting. So I decided to search by photo in Yandex. Now we can see something helpful for us:
 
-![](/assets/flower.png)
+![](./assets/flower.png)
 
 Google "Air Tahiti Nui":
 
-![](/assets/air_tahiti_nui.png)
+![](./assets/air_tahiti_nui.png)
 
 In the logo we see a flower, so this is probably what we need.
 
