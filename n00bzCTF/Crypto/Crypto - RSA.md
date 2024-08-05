@@ -1,4 +1,4 @@
-# Crypto - rsa (100 points)
+# Crypto - RSA (100 points)
 ## Writeup Author - Gluk0zka
 
 ---
