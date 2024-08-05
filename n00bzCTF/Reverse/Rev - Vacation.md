@@ -7,8 +7,8 @@
 My friend told me they were going on vacation, but they sent me this weird PowerShell script instead of a postcard! Author: 0xBlue
 
 Attached files:
-![run.ps1](assets/vac_run.ps1)
-![output.txt](assets/vac_output.txt)
+[run.ps1](assets/vac_run.ps1)
+[output.txt](assets/vac_output.txt)
 
 
 ---
