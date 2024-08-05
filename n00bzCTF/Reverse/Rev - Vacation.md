@@ -1,4 +1,4 @@
-# Rev - vacation (100 points)
+# Rev - Vacation (100 points)
 ## Writeup Author - Gluk0zka
 
 ---
