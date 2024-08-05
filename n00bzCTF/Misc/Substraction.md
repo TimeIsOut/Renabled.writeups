@@ -8,9 +8,7 @@
 My little brother is learning math, can you show him how to do some subtraction problems?
 
 Attached files:
-```
--- [server.py](./assets/server.py)
-```
+[server.py](./assets/server.py)
 
 ---
 
@@ -55,6 +53,7 @@ Script turned out like this:
 ```
 
 After connecting it to the socket and running the script, we get the flag.
+
 ![The text](./assets/image.png)
 
 ---
