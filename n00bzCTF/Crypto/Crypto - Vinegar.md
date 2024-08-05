@@ -19,3 +19,6 @@ The name of the task suggests the idea of using the Vigener cipher. We have been
 ```
 'n00bz{vigenerecipherisfun}'
 ```
+
+### P.S
+The Vigener cipher is a polyalphabetic encryption method based on replacing text characters using a table called the Vigener square. It was developed by the French cryptographer Blaise Vigener in the 16th century.
