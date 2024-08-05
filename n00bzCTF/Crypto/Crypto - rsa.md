@@ -24,7 +24,7 @@ First we need to understand what kind of values ​​we are given. C is an encr
 ```
 C = M^e (mod n)
 ```
-Thus, we do not know the original message (M) in the ASCI format. You can write a code or use an online decoder such as [thist](https://www.dcode.fr/rsa-cipher).
+Thus, we do not know the original message (M) in the ASCI format. You can write a code or use an online decoder such as [this](https://www.dcode.fr/rsa-cipher).
 
 ---
 ### Flag
