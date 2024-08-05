@@ -5,26 +5,9 @@
 
 ### Task
 Attached files:
-```
--- run.ps1
--- output.txt
-```
+![run.ps1](assets/vac_run.ps1)
+![output.txt](assets/vac_output.txt)
 
-**run.ps1:**
-```powershell
-$bytes = [System.Text.Encoding]::ASCII.GetBytes((cat .\flag.txt))
-[System.Collections.Generic.List[byte]]$newBytes = @()
-$bytes.ForEach({
-    $newBytes.Add($_ -bxor 3)
-    })
-$newString =  [System.Text.Encoding]::ASCII.GetString($newBytes)
-echo $newString | Out-File -Encoding ascii .\output.txt
-```
-
-**output.txt:**
-```
-m33ayxeqln\sbqjp\twk\{lq~
-```
 
 ---
 
