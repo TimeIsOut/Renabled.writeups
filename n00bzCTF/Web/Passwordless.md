@@ -10,7 +10,9 @@ Brief Solution
 ---
 
 Vulnerability  - Open source file with authorization algorithm. String "str(uuid.uuid5(leet,'admin123'))" makes user administrator
+
 Impact         - Unauthorized user can become administrator in app. In our case we get the flag :)
+
 Fix            - Hide the source file for beginning and storing sensitive variables in vaults, not in sources
 
 ---
