@@ -21,7 +21,9 @@ Full Solution
 ![image](https://github.com/user-attachments/assets/2ed297f5-012f-428c-a1af-43885462cb70)
 
 As you see, in code we have two functions: 
+
                 the first one works with usernames and rendering index.html
+                
                 the second one is responsible for getting flag and identifying the Admin.
 To get flag we need admin uid, that is in if. For it we need leet variable and 'admin123'. Two arguments we found, enter it in Python
 IDLE to get answer.
