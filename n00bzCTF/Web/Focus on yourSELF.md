@@ -8,7 +8,7 @@ Task Describtion
 ---
 Brief Solution
 ---
-Vulnerability - Local File Inclusion (LFI) in view function
+Vulnerability - Local File Inclusion (LFI) and Path Traversal in view function
 
 Impact        - One can read files in host OS.
 
@@ -28,7 +28,7 @@ Clicking View button we see in URL image GET param with nature.jpg filename as v
 LFI.
 Let't change filename on smth interesting. For example /etc/passwd file. Spoiler: we see nothing,
 just because of application contatinates internal path for image (e.x. /app/assets/) and entered path (image.jpg)
-That's why we need to go upper in dirs, to get /etc/passwd
+That's why we need to go upper in dirs, to get /etc/passwd (Path Traversal)
 
 ![image](https://github.com/user-attachments/assets/7fdd804c-a7ff-44bb-be53-e5873ba44534)
 
