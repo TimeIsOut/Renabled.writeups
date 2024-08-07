@@ -20,7 +20,9 @@ Full Solution
 ![image](https://github.com/user-attachments/assets/32737baa-79f1-4236-9bc6-893f356d568d)
 
 After instance launched we've got Image Gallery service with only two funcs:
+
                                      1. View stored images
+                                     
                                      2. Upload them
 Clicking View button we see in URL image GET param with nature.jpg filename as value, that means 
 LFI.
