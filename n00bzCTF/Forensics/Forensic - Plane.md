@@ -12,7 +12,7 @@ Attached files: [plane.jpg](assets/plane/plane.jpg)
 1) In order to find the file, you need to look at the metadata of this photo and we can easily find the coordinates:
 ![img](assets/plane/metadata.png)
 
-3) Well, then you can use any service to convert the latitude and longitude to a decimal value:
+2) Well, then you can use any service to convert the latitude and longitude to a decimal value:
 ![img](assets/plane/decimal.png)
 
 ---
