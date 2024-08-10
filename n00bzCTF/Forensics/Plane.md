@@ -1,4 +1,4 @@
-# Forensic - Plane (100 points)
+# Plane (100 points)
 ## Writeup Author - slzzpp
 
 ---

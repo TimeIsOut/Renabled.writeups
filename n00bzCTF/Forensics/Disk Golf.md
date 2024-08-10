@@ -1,4 +1,4 @@
-# Forensic - Disk Golf (457 points)
+# Disk Golf (457 points)
 ## Writeup Author - slzzpp
 
 ---

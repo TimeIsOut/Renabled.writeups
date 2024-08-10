@@ -1,4 +1,4 @@
-# Crypto - Vinegar (100 points)
+# Vinegar (100 points)
 ## Writeup Author - slzzpp
 
 ---
