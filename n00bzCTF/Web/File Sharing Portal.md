@@ -15,7 +15,7 @@ Vulnerability - SSTI in Unpacked File
 
 Impact - Remote Code Execution (RCE), that leads to full compromise of system.
 
-Fix - Forget about formatting strings in Template Rendering. Use render_template_string arguments.
+Fix - Forget about formatting strings in Template Rendering. Use render_template and arguments.
 
 ---
 Full Solution
